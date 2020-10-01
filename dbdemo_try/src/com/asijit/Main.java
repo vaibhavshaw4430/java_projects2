@@ -27,11 +27,11 @@ public class Main {
             boolean result= dbHelper.register(name,email,password);
 
             if(result==true) {
-                System.out.println("register succesful");
+                System.out.println("register successful");
             }
             else
             {
-                System.out.println("register unsuccesful");
+                System.out.println("register unsuccesful,please gand maran");
             }
         }else{
             input.nextLine();
