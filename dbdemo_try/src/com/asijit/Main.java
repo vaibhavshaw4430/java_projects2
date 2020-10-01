@@ -31,7 +31,7 @@ public class Main {
             }
             else
             {
-                System.out.println("register unsuccesful,please gand maran");
+                System.out.println("register unsuccessful");
             }
         }else{
             input.nextLine();
