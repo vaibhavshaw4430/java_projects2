@@ -9,7 +9,7 @@ public class Main {
         // write your code here
         DBHelper dbHelper =new DBHelper();
         Scanner input = new Scanner(System.in);
-
+        System.out.println("Basic demonstration of CRUD");
         System.out.println("How would you like to proceed"+
                 "\n1. Enter 1 to register"+
                 "\n2. Enter 2 to login");
